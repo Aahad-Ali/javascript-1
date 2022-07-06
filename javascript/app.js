@@ -1,0 +1,1 @@
+alert("im aahad ali from karachi where are u from!");
